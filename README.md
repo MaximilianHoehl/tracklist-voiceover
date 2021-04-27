@@ -2,7 +2,7 @@
 [🛠under construction]
 
 ### What
-Commandline tool to create voiceovers of your mp3 files with the filename (trackname)
+Commandline tool to generate voiceovers of your mp3 files with the filename (trackname)
 
 ### How?
 - Takes a directory path as input
