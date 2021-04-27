@@ -12,5 +12,3 @@ Commandline tool to create voiceovers of your mp3 files with the filename (track
 
 ### Why?!
 not sure..
-
-### usage
